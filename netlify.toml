@@ -6,3 +6,8 @@
   HUGO_VERSION = "0.59.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+
+[context.blog.environment]
+  HUGO_VERSION = "0.59.0"
+  HUGO_ENV = "blog"
+  HUGO_ENABLEGITINFO = "true"
