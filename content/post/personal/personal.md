@@ -30,4 +30,20 @@ categories: ['personal']
 9. Be kind and forgiving to others. Everyone is dealt different hands. Make people around you a better human.
 10. Strive to be what I could be. Become better than yesterday.
 
+## Things that drive me forward / get me excited
+
+- clear deadline and measure of performance i.e. competitive environment
+- teaching others what I know
+- experiment and explore application of something different
+
+## Weaknesses
+
+- no clear goals or deadline
+- not being able to speak what I really think
+- being passive aggressive
+- overthinking it. yearning for perfection and 100% certainty before doing something
+- too much research and learning without any doing
+- not giving up early enough when there is a clear roadblock
+- lack of communication about what I am working on
+
 <!--more-->
